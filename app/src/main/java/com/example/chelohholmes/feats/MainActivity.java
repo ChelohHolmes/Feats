@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
                 JsonObjectRequest peticion = new JsonObjectRequest
                         (
                                 Request.Method.GET,
-                                "http://192.168.84.33:8080/xampp/htdocs/Hamana.php?algo="+ numero.getText().toString(),
+                                "http://192.168.84.33/Hamana.php?algo="+ numero.getText().toString(),
                                 null,
                                 new Response.Listener<JSONObject>() {
                                     @Override
