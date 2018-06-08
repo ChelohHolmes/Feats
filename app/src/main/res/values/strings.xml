@@ -2,5 +2,6 @@
     <string name="app_name">Feats</string>
     <string name="numero">Número</string>
     <string name="factorial">Factorial</string>
-    <string name="resultado">Resultado:</string>
+    <string name="resultado">Resultado: </string>
+    <string name="hamana">Hamana</string>
 </resources>

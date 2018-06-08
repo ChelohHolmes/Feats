@@ -9,7 +9,7 @@
         android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="8sp"
-        android:text="@string/numero"
+        android:hint="@string/numero"
         android:id="@+id/Number"/>
 
     <TextView
@@ -45,6 +45,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="18sp"
+            android:hint="@string/hamana"
             android:id="@+id/Resultado"
             android:textColor="@android:color/black"/>
     </LinearLayout>
